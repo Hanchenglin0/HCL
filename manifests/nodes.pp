@@ -1,4 +1,4 @@
-node 'devops172303142', 'devops172303141', 'devops172303143' {
+node 'devops172303142', 'devops172303141'{
 	include puppet
 	file {
 		'/tmp/hello':
